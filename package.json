@@ -1,0 +1,30 @@
+{
+  "name": "drawflow-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mannynacc/drawflow-project.git"
+  },
+  "keywords": [
+    "drawflow",
+    "vuejs",
+    "vue",
+    "golang",
+    "chi",
+    "dgraph"
+  ],
+  "author": "Manuel Cota",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mannynacc/drawflow-project/issues"
+  },
+  "homepage": "https://github.com/mannynacc/drawflow-project#readme",
+  "dependencies": {
+    "drawflow": "^0.0.55"
+  }
+}
